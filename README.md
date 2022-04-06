@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hello World, I'm Nusret 👋
 
-<!--
-**NusretOzates/NusretOzates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=NusretOzates.visitor-badge)
+ 
+ 
+- 🔭 Currently, I'm a machine learning engineer in the field of NLP. 
+- 🌱 Trying to improve myself in the field of MLOps.
 
-Here are some ideas to get you started:
+## Favorite Programming Languages
+- 💻 Python
+- 💻 Kotlin
+- 💻 Swift
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I believe I know a little
+- 💻 Tensorflow
+- 💻 Transformers
+- 💻 Kubernetes
+- 💻 Docker
+- 💻 FastAPI
+- 💻 MongoDB
+- 💻 Redis
+- 💻 Kafka
+- 💻 Openshift
+- and more...
+
+
+
+You can find my blog posts on Medium [here](https://medium.com/@m.nusret.ozates).
+
+## My GitHub Stats:
+
+![Damla's GitHub stats](https://github-readme-stats.vercel.app/api?username=NusretOzates&show_icons=true&theme=tokyonight)
+
+## My Top Langs:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NusretOzates&layout=compact&theme=tokyonight)
+
+## Contact
+
+- [Linkedin](https://www.linkedin.com/in/nusret-ozates-4306/)
+- [Twitter](https://twitter.com/nusret_ai)
