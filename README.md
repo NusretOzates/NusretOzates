@@ -4,7 +4,7 @@
  ![Followers](https://img.shields.io/github/followers/NusretOzates?style=social)
  ![Stars](https://img.shields.io/github/stars/NusretOzates?style=social)
  ![Twitter](https://img.shields.io/twitter/follow/nsrt_py?style=social)
-
+  
 - 🔭 Currently, I'm a machine learning engineer in the field of NLP. 
 - 🌱 Trying to improve myself in the field of MLOps.
 
