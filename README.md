@@ -1,8 +1,10 @@
 # Hello World, I'm Nusret 👋
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=NusretOzates.visitor-badge)
- 
- 
+ ![Visitors](https://visitor-badge.glitch.me/badge?page_id=NusretOzates.visitor-badge)
+ ![Followers](https://img.shields.io/github/followers/NusretOzates?style=social)
+ ![Stars](https://img.shields.io/github/stars/NusretOzates?style=social)
+ ![Twitter](https://img.shields.io/twitter/follow/nsrt_py?style=social)
+
 - 🔭 Currently, I'm a machine learning engineer in the field of NLP. 
 - 🌱 Trying to improve myself in the field of MLOps.
 
@@ -12,10 +14,12 @@
 - 💻 Swift
 
 ## Technologies I believe I know a little
+
 - 💻 Tensorflow
 - 💻 Transformers
-- 💻 Kubernetes
 - 💻 Docker
+- 💻 Kubernetes
+- 💻 Kubeflow
 - 💻 FastAPI
 - 💻 MongoDB
 - 💻 Redis
@@ -24,12 +28,11 @@
 - and more...
 
 
-
 You can find my blog posts on Medium [here](https://medium.com/@m.nusret.ozates).
 
 ## My GitHub Stats:
 
-![Damla's GitHub stats](https://github-readme-stats.vercel.app/api?username=NusretOzates&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NusretOzates&show_icons=true&theme=tokyonight)
 
 ## My Top Langs:
 
