@@ -7,6 +7,7 @@
   
 - 🔭 Currently, I'm a machine learning engineer in the field of NLP. 
 - 🌱 Trying to improve myself in the field of MLOps.
+- Recently got my certification "Google Cloud Certified - Professional Machine Learning Engineer"
 
 ## Favorite Programming Languages
 - 💻 Python
