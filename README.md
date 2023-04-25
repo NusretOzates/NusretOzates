@@ -32,4 +32,4 @@
 You can find my blog posts on Medium [here](https://medium.com/@m.nusret.ozates).
 
 ## Contact
-- [Linkedin](https://www.linkedin.com/in/nusret-ozates-4306/)
+- [Linkedin](https://www.linkedin.com/in/nusret-ozates/)
